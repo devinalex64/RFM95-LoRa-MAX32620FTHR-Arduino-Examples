@@ -51,12 +51,12 @@ This wiring diagram is useful if your RFM95W LoRa 900MHz module is a Feather win
 
 **Before jumpers are soldered in:**
 
-
+![feather_pinouts](https://user-images.githubusercontent.com/12534456/41125881-9d9bc9ee-6a5a-11e8-9f1b-2be7af252a4b.jpg)
 
 
 **After jumpers are soldered in:**
 
-
+![rfm95_feather_pinouts_drawn_in](https://user-images.githubusercontent.com/12534456/41125880-9b388d40-6a5a-11e8-8d99-ce34b21f5cfe.jpg)
 
 
 For More information, a detailed wiring guide for the RFM95W Featherwing can be found [here](https://learn.adafruit.com/radio-featherwing/pinoutsc).
@@ -68,13 +68,14 @@ For a breakout board, the following wiring diagram will work with both the MAX32
 
 **Before the RFM95W is connected with wires:**
 
-
+![rfm95_breakout_pinouts](https://user-images.githubusercontent.com/12534456/41125877-9b03446e-6a5a-11e8-9772-320f06f9d7d3.jpg)
 
 **After the RFM95W is connected with wires:**
 
+![rfm95_breakout_pinouts_drawn_in](https://user-images.githubusercontent.com/12534456/41125878-9b1f364c-6a5a-11e8-812d-60e4672ff83e.jpg)
 
 
-For More information, a detailed wiring guide for the RFM95W Brakout Board can be found [here](https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/pinouts).
+For More information, a detailed wiring guide for the RFM95W Breakout Board can be found [here](https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/pinouts).
 
 ## Antenna
 
